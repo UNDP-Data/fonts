@@ -8,3 +8,8 @@ Original font files (.otf) are from [UNDP Design System GitHub repo](https://git
 
 `.otf` files were converted by [font-maker](https://maplibre.org/font-maker/) provided by maplibre.org
 
+## Use in Mapbox / Maplibre
+
+```
+https://fonts.undpgeohub.org/fonts/{fontstack}/{range}.pbf
+```
